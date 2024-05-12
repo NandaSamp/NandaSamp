@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 12 May 2024 12:23:14 at https://Nanda.id/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://Nanda.id/ -O1 "C:\xampp\htdocs\WebNandaSamp" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+12:23:33	Warning: 	Moved Permanently for Nanda.id/robots.txt
+
+12:23:33	Warning: 	Redirected link is identical because of 'URL Hack' option: Nanda.id/robots.txt and https://Nanda.id/robots.txt
+
+12:23:33	Warning: 	Warning moved treated for Nanda.id/robots.txt (real one is https://Nanda.id/robots.txt)
+
+12:23:33	Warning: 	Moved Permanently for Nanda.id/peraturan/
+
+12:23:33	Warning: 	Redirected link is identical because of 'URL Hack' option: Nanda.id/peraturan/ and https://Nanda.id/peraturan/
+
+12:23:33	Warning: 	File has moved from Nanda.id/peraturan/ to https://Nanda.id/peraturan/
+
+12:23:33	Warning: 	Moved Permanently for Nanda.id/donasi/
+
+12:23:33	Warning: 	Redirected link is identical because of 'URL Hack' option: Nanda.id/donasi/ and https://Nanda.id/donasi/
+
+12:23:33	Warning: 	File has moved from Nanda.id/donasi/ to https://Nanda.id/donasi/
+
+12:23:33	Warning: 	Moved Permanently for Nanda.id/discord/
+
+12:23:33	Warning: 	Redirected link is identical because of 'URL Hack' option: Nanda.id/discord/ and https://Nanda.id/discord/
+
+12:23:33	Warning: 	File has moved from Nanda.id/discord/ to https://Nanda.id/discord/
+
+12:23:33	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/attachments/616666479940599811/1022545370456268891/logo_Nanda_v2-01.png (from https://Nanda.id/)
+
+12:23:33	Error: 	"Not Found" (404) at link https://Nanda.id/default (from https://Nanda.id/)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 34 links scanned, 27 files written (2449610 bytes overall) [1518907 bytes received at 79942 bytes/sec], 1217674 bytes transferred using HTTP compression in 20 files, ratio 20%, 3.4 requests per connection
+
+(2 errors, 12 warnings, 0 messages)
+
